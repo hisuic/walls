@@ -10,36 +10,36 @@
 ---
 
 ### Akame ---> [Original](https://wall.alphacoders.com/big.php?i=863290)
-![akame](akame.png)
+![akame](desktop/akame.png)
 
 
 ---
 
 ### Calm Night Moraine
 AI-generated
-![calm-moraine](calm-moraine.png)
+![calm-moraine](desktop/calm-moraine.png)
 
 ---
 
 ### Chelsea ---> [Original](https://www.pixiv.net/en/artworks/104623178)
-![chelsea](chelsea.png)
+![chelsea](desktop/chelsea.png)
 
 ---
 
 ### Futuresynth 1 ---> [Original](https://www.wallpaperflare.com/digital-digital-art-artwork-fantasy-art-drawing-painting-wallpaper-gjwku)
-![futuresynth1](futuresynth1.png)
+![futuresynth1](desktop/futuresynth1.png)
 
 ---
 
 ### Futuresynth 2 ---> [Original](https://wallhere.com/en/wallpaper/1623113)
-![futuresynth2](futuresynth2.png)
+![futuresynth2](desktop/futuresynth2.png)
 
 ---
 
 ### Lakeside ---> [Original](https://www.freepik.com/free-ai-image/beautiful-water-view-anime-style_94462226.htm)
-![Lakeside](lakeside.png)
+![Lakeside](desktop/lakeside.png)
 
 ---
 
 ### McLaren P1 ---> [Original](https://www.wallpaperflare.com/super-car-mclaren-mp4-neon-reflection-wallpaper-yhrtj)
-![mclarenp1](mclarenp1.png)
+![mclarenp1](desktop/mclarenp1.png)
