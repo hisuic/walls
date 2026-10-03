@@ -41,5 +41,11 @@ AI-generated
 
 ---
 
+### Lakeside Watercolor
+AI-generated
+![lakeside_watercolor](desktop/lakeside_watercolor.png)
+
+---
+
 ### McLaren P1 ---> [Original](https://www.wallpaperflare.com/super-car-mclaren-mp4-neon-reflection-wallpaper-yhrtj)
 ![mclarenp1](desktop/mclarenp1.png)
