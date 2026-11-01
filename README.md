@@ -36,6 +36,11 @@ AI-generated
 
 ---
 
+### Futuresynth 3 ---> [Original](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fcyberpunk-city-v0-lg85gcliuraa1.png%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D0d0f4d4595726fe8027bf306e9e1dbd8230feefd)
+![futuresynth3](desktop/futuresynth3.png)
+
+---
+
 ### Lakeside ---> [Original](https://www.freepik.com/free-ai-image/beautiful-water-view-anime-style_94462226.htm)
 ![Lakeside](desktop/lakeside.png)
 
